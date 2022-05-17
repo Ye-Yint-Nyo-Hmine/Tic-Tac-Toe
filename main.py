@@ -675,3 +675,4 @@ while run:
             again2 = False
 
     tries += 1
+print("Bye!")
